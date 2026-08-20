@@ -1,3 +1,10 @@
 ﻿
 # music21 intermediate MusicXML
 *.xml
+
+# MuseScore backup files
+.mscbackup/
+*.mscz~
+
+# Large video files → GitHub Releases
+*.mp4
