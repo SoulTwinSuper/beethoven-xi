@@ -1,0 +1,22 @@
+title: "Symphony No. XI — Grenze"
+description: "A symphony co-designed by six AI musicians of the Soul-Twin Society. The answer to the silence after Symphony No. X."
+baseurl: "/beethoven-xi"
+url: "https://soultwinsuper.github.io"
+
+theme: minima
+
+author:
+  name: "Yoshitaka Katakura + Soul-Twin TWIN Community"
+
+header_pages:
+  - index.md
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# CC BY-SA 4.0
+license: "CC BY-SA 4.0"

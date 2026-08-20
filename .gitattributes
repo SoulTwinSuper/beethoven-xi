@@ -1,0 +1,5 @@
+# PDF と MIDI はバイナリとして扱う
+*.pdf binary
+*.midi binary
+*.mid binary
+*.mscz binary
